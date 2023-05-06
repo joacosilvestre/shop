@@ -1,0 +1,479 @@
+[
+    {
+        "id": 1,
+        "name":"Camiseta titular Boca Juniors",
+        "price":11000,
+        "category":"Boca Juniors Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-BocaJuniors-2021.png",
+        "imgBackUrl":"camiseta1Back-BocaJuniors-2021.png"
+    },
+    {
+        "id": 2,
+        "name":"Camiseta titular Atletico Tucuman",
+        "price":8000,
+        "category":"Atletico Tucuman Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-AtleticoTucuman-2022.png",
+        "imgBackUrl":"camiseta1Back-AtleticoTucuman-2022.png"
+    },
+    {
+        "id": 3,
+        "name":"Camiseta titular Belgrano",
+        "price":7500,
+        "category":"Belgrano Córdoba Primera Nacional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Belgrano-2021.png",
+        "imgBackUrl":"camiseta1Back-Belgrano-2021.png"
+    },
+    {
+        "id": 4,
+        "name":"Camiseta titular Estudiantes",
+        "price":8000,
+        "category":"Estudiantes Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Estudiantes-2021.png",
+        "imgBackUrl":"camiseta1Back-Estudiantes-2021.png"
+    },
+    {
+        "id": 5,
+        "name":"Camiseta titular Independiente",
+        "price":11500,
+        "category":"Independiente Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Independiente-2021.png",
+        "imgBackUrl":"camiseta1Back-Independiente-2021.png"
+    },
+    {
+        "id": 6,
+        "name":"Camiseta titular Newells Old Boys",
+        "price":9000,
+        "category":"Newells Old Boys Liga Profesional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-Newells-2022.png",
+        "imgBackUrl":"camiseta1Back-Newells-2022.png"
+    },
+    {
+        "id": 7,
+        "name":"Camiseta titular Racing",
+        "price":10500,
+        "category":"Racing Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Racing-2021.png",
+        "imgBackUrl":"camiseta1Back-Racing-2021.png"
+    },
+    {
+        "id": 8,
+        "name":"Camiseta titular River Plate",
+        "price":11000,
+        "category":"River Plate Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-RiverPlate-2021.png",
+        "imgBackUrl":"camiseta1Back-RiverPlate-2021.png"
+    },
+    {
+        "id": 9,
+        "name":"Camiseta titular Rosario Central",
+        "price":9500,
+        "category":"Rosario Central Liga Profesional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-RosarioCentral-2022.png",
+        "imgBackUrl":"camiseta1Back-RosarioCentral-2022.png"
+    },
+    {
+        "id": 10,
+        "name":"Camiseta titular Talleres",
+        "price":9000,
+        "category":"Talleres Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Talleres-2021.png",
+        "imgBackUrl":"camiseta1Back-Talleres-2021.png"
+    },
+    {
+        "id": 11,
+        "name":"Camiseta titular Velez Sarsfield",
+        "price":10000,
+        "category":"Velez Sarsfield Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Velez-2021.png",
+        "imgBackUrl":"camiseta1Back-Velez-2021.png"
+    },
+    {
+        "id": 12,
+        "name":"Camiseta alternativa Boca Juniors",
+        "price":11000,
+        "category":"Boca Juniors Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-BocaJuniors-2021.png",
+        "imgBackUrl":"camiseta2Back-BocaJuniors-2021.png"
+    },
+    {
+        "id": 13,
+        "name":"Camiseta alternativa Rosario Central",
+        "price":9500,
+        "category":"Rosario Central Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-RosarioCentral-2022.png",
+        "imgBackUrl":"camiseta2Back-RosarioCentral-2022.png"
+    },
+    {
+        "id": 14,
+        "name":"Camiseta alternativa Central Córdoba",
+        "price":10000,
+        "category":"Central Córdoba Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-CentralCordoba-2022.png",
+        "imgBackUrl":"camiseta2Back-CentralCordoba-2022.png"
+    },
+    {
+        "id": 15,
+        "name":"Camiseta alternativa Boca Juniors",
+        "price":12000,
+        "category":"Boca Juniors Liga Profesional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta3Front-BocaJuniors-2022.png",
+        "imgBackUrl":"camiseta3Back-BocaJuniors-2022.png"
+    },
+    {
+        "id": 16,
+        "name":"Camiseta alternativa Estudiantes",
+        "price":8000,
+        "category":"Estudiantes Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-Estudiantes-2021.png",
+        "imgBackUrl":"camiseta2Back-Estudiantes-2021.png"
+    },
+    {
+        "id": 17,
+        "name":"Camiseta alternativa Independiente",
+        "price":11500,
+        "category":"Independiente Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-Independiente-2021.png",
+        "imgBackUrl":"camiseta2Back-Independiente-2021.png"
+    },
+    {
+        "id": 18,
+        "name":"Camiseta alternativa Newells Old Boys",
+        "price":9000,
+        "category":"Newells Old Boys Liga Profesional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta2Front-Newells-2022.png",
+        "imgBackUrl":"camiseta2Back-Newells-2022.png"
+    },
+    {
+        "id": 19,
+        "name":"Camiseta alternativa Racing",
+        "price":10500,
+        "category":"Racing Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-Racing-2021.png",
+        "imgBackUrl":"camiseta2Back-Racing-2021.png"
+    },
+    {
+        "id": 20,
+        "name":"Camiseta alternativa River Plate",
+        "price":11000,
+        "category":"River Plate Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-RiverPlate-2021.png",
+        "imgBackUrl":"camiseta2Back-RiverPlate-2021.png"
+    },
+    {
+        "id": 21,
+        "name":"Camiseta alternativa River Plate",
+        "price":11000,
+        "category":"River Plate Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta3Front-RiverPlate-2021.png",
+        "imgBackUrl":"camiseta3Back-RiverPlate-2021.png"
+    },
+    {
+        "id": 22,
+        "name":"Camiseta alternativa San Martin de Tucuman",
+        "price":4000,
+        "category":"San Martin de Tucuman Primera Nacional camiseta remera",
+        "year":"2020",
+        "imgFrontUrl":"camiseta2Front-SanMartinTucuman-2020.png",
+        "imgBackUrl":"camiseta2Back-SanMartinTucuman-2020.png"
+    },
+    {
+        "id": 23,
+        "name":"Camiseta titular Instituto de Córdoba",
+        "price":6000,
+        "category":"Instituto de Cordoba Primera Nacional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-Instituto-2022.png",
+        "imgBackUrl":"camiseta1Back-Instituto-2022.png"
+    },
+    {
+        "id": 24,
+        "name":"Camiseta titular Almirante Brown",
+        "price":6500,
+        "category":"Almirante Brown Primera Nacional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-AlmiranteBrown-2022.png",
+        "imgBackUrl":"camiseta1Back-AlmiranteBrown-2022.png"
+    },
+    {
+        "id": 25,
+        "name":"Camiseta titular Gimnasia de Jujuy",
+        "price":5500,
+        "category":"Gimnasia de Jujuy Primera Nacional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-GimnasiaJujuy-2022.png",
+        "imgBackUrl":"camiseta1Back-GimnasiaJujuy-2022.png"
+    },
+    {
+        "id": 26,
+        "name":"Camiseta alternativa Gimnasia de Jujuy",
+        "price":5500,
+        "category":"Gimnasia de Jujuy Primera Nacional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta3Front-GimnasiaJujuy-2022.png",
+        "imgBackUrl":"camiseta3Back-GimnasiaJujuy-2022.png"
+    },
+    {
+        "id": 27,
+        "name":"Camiseta titular Ferrocarril Oeste",
+        "price":7500,
+        "category":"Ferrocarril Oeste Primera Nacional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Ferro-2021.png",
+        "imgBackUrl":"camiseta1Back-Ferro-2021.png"
+    },
+    {
+        "id": 28,
+        "name":"Camiseta titular Nueva Chicago",
+        "price":6500,
+        "category":"Nueva Chicago Primera Nacional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-NuevaChicago-2021.png",
+        "imgBackUrl":"camiseta1Back-NuevaChicago-2021.png"
+    },
+    {
+        "id": 29,
+        "name":"Camiseta titular Atlanta",
+        "price":7000,
+        "category":"Atlanta Primera Nacional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-Atlanta-2022.png",
+        "imgBackUrl":"camiseta1Back-Atlanta-2022.png"
+    },
+    {
+        "id": 30,
+        "name":"Camiseta titular Estudiantes de Rio Cuarto",
+        "price":6000,
+        "category":"Estudiantes de Rio Cuarto Primera Nacional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-EstudiantesRioCuarto-2021.png",
+        "imgBackUrl":"camiseta1Back-EstudiantesRioCuarto-2021.png"
+    },
+    {
+        "id": 31,
+        "name":"Camiseta titular Temperley",
+        "price":6000,
+        "category":"Temperley Primera Nacional camiseta remera",
+        "year":"2020",
+        "imgFrontUrl":"camiseta1Front-Temperley-2020.png",
+        "imgBackUrl":"camiseta1Back-Temperley-2020.png"
+    },
+    {
+        "id": 32,
+        "name":"Short titular Boca Juniors",
+        "price":6500,
+        "category":"Boca Juniors Liga Profesional short pantalon corto",
+        "year":"2021",
+        "imgFrontUrl":"shorts1Front-BocaJuniors-2021.png",
+        "imgBackUrl":"shorts1Back-BocaJuniors-2021.png"
+    },
+    {
+        "id": 33,
+        "name":"Short titular Racing",
+        "price":6000,
+        "category":"Racing Liga Profesional short pantalon corto",
+        "year":"2021",
+        "imgFrontUrl":"shorts1Front-Racing-2021.png",
+        "imgBackUrl":"shorts1Back-Racing-2021.png"
+    },
+    {
+        "id": 34,
+        "name":"Short titular River Plate",
+        "price":6000,
+        "category":"River Plate Liga Profesional short pantalon corto",
+        "year":"2021",
+        "imgFrontUrl":"shorts1Front-RiverPlate-2021.png",
+        "imgBackUrl":"shorts1Back-RiverPlate-2021.png"
+    },
+    {
+        "id": 35,
+        "name":"Short titular Rosario Central",
+        "price":5000,
+        "category":"Rosario Central Liga Profesional short pantalon corto",
+        "year":"2022",
+        "imgFrontUrl":"shorts1Front-RosarioCentral-2022.png",
+        "imgBackUrl":"shorts1Back-RosarioCentral-2022.png"
+    },
+    {
+        "id": 36,
+        "name":"Camiseta titular Selección Argentina",
+        "price":11000,
+        "category":"Seleccion Argentina AFA Messi camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Argentina-2021.png",
+        "imgBackUrl":"camiseta1Back-Argentina-2021.png"
+    },
+    {
+        "id": 37,
+        "name":"Camiseta Alternativo Selección Argentina",
+        "price":10000,
+        "category":"Seleccion Argentina AFA Messi camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta2Front-Argentina-2021.png",
+        "imgBackUrl":"camiseta2Back-Argentina-2021.png"
+    },
+    {
+        "id": 38,
+        "name":"Camiseta titular Selección Argentina",
+        "price":9500,
+        "category":"Seleccion Argentina AFA Messi camiseta remera",
+        "year":"2019",
+        "imgFrontUrl":"camiseta1Front-Argentina-2019.png",
+        "imgBackUrl":"camiseta1Back-Argentina-2019.png"
+    },
+    {
+        "id": 39,
+        "name":"Short titular Selección Argentina",
+        "price":6500,
+        "category":"Seleccion Argentina AFA Messi short pantalon corto",
+        "year":"2019",
+        "imgFrontUrl":"short1Front-Argentina-2021.png",
+        "imgBackUrl":"short1Back-Argentina-2021.png"
+    },
+    {
+        "id": 40,
+        "name":"Camiseta Entrenamiento Selección Argentina",
+        "price":8000,
+        "category":"Seleccion Argentina AFA Messi",
+        "year":"2021",
+        "imgFrontUrl":"camisetaEntrenFront-Argentina-2021.png",
+        "imgBackUrl":"camisetaEntrenBack-Argentina-2021.png"
+    },
+    {
+        "id": 41,
+        "name":"Camiseta titular Arquero Selección Argentina",
+        "price":11000,
+        "category":"Seleccion Argentina Arquero AFA Messi camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camisetaArqFront-Argentina-2021.png",
+        "imgBackUrl":"camisetaArqBack-Argentina-2021.png"
+    },
+    {
+        "id": 42,
+        "name":"Short titular Arquero Selección Argentina",
+        "price":6500,
+        "category":"Seleccion Argentina Arquero  AFA Messi short pantalon corto",
+        "year":"2021",
+        "imgFrontUrl":"shortArqFront-Argentina-2021.png",
+        "imgBackUrl":"shortArqBack-Argentina-2021.png"
+    },
+    {
+        "id": 43,
+        "name":"Campera Anthem Selección Argentina",
+        "price":15000,
+        "category":"Seleccion Argentina Campera AFA Messi campera",
+        "year":"2021",
+        "imgFrontUrl":"campera1Front-Argentina-2021.png",
+        "imgBackUrl":"campera1Back-Argentina-2021.png"
+    },
+    {
+        "id": 44,
+        "name":"Camiseta Titular Colon",
+        "price":8000,
+        "category":"Colon de Santa Fe Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Colon-2021.png",
+        "imgBackUrl":"camiseta1Back-Colon-2021.png"
+    },
+    {
+        "id": 45,
+        "name":"Camiseta Titular Huracán",
+        "price":7000,
+        "category":"Huracan Liga Profesional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-Huracan-2022.png",
+        "imgBackUrl":"camiseta1Back-Huracan-2022.png"
+    },
+    {
+        "id": 46,
+        "name":"Camiseta Alternativa Gimnasia de Jujuy",
+        "price":7000,
+        "category":"Gimnasia de jujuy primera nacional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta4Front-GimnasiaJujuy-2022.png",
+        "imgBackUrl":"camiseta4Back-GimnasiaJujuy-2022.png"
+    },
+    {
+        "id": 47,
+        "name":"Camiseta Titular Defensa y Justicia",
+        "price":6800,
+        "category":"Defensa y justicia Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Defensa-2021.png",
+        "imgBackUrl":"camiseta1Back-Defensa-2021.png"
+    },
+    {
+        "id": 48,
+        "name":"Camiseta Titular Aldosivi",
+        "price":6000,
+        "category":"Aldosivi Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Aldosivi-2021.png",
+        "imgBackUrl":"camiseta1Back-Aldosivi-2021.png"
+    },
+    {
+        "id": 49,
+        "name":"Camiseta Titular Patronato",
+        "price":6000,
+        "category":"Patronato Liga Profesional camiseta remera",
+        "year":"2020",
+        "imgFrontUrl":"camiseta2Front-Patronato-2020.png",
+        "imgBackUrl":"camiseta2Back-Patronato-2020.png"
+    },
+    {
+        "id": 50,
+        "name":"Camiseta Titular Godoy Cruz",
+        "price":7000,
+        "category":"Godoy cruz Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-GodoyCruz-2021.png",
+        "imgBackUrl":"camiseta1Back-GodoyCruz-2021.png"
+    },
+    {
+        "id": 51,
+        "name":"Camiseta Titular Gimnasia de La Plata",
+        "price":8000,
+        "category":"Gimnasia de La Plata Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-GimnasiaLP-2021.png",
+        "imgBackUrl":"camiseta1Back-GimnasiaLP-2021.png"
+    },
+    {
+        "id": 52,
+        "name":"Camiseta Titular Unión",
+        "price":7000,
+        "category":"Union de Santa Fe Liga Profesional camiseta remera",
+        "year":"2021",
+        "imgFrontUrl":"camiseta1Front-Union-2021.png",
+        "imgBackUrl":"camiseta1Back-Union-2021.png"
+    },
+    {
+        "id": 53,
+        "name":"Camiseta Titular San Lorenzo",
+        "price":11000,
+        "category":"San Lorenzo Liga Profesional camiseta remera",
+        "year":"2022",
+        "imgFrontUrl":"camiseta1Front-SanLorenzo-2022.png",
+        "imgBackUrl":"camiseta1Back-SanLorenzo-2022.png"
+    }
+]
